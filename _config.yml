@@ -15,30 +15,30 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
+title: Gomex Blog
+description: "Because information needs to be free"
+keywords: "Devops, docker, ansible, SRE, testing, blog, web"
+url: http://gomex.me
 baseurl: "/end2end"
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+repo: http://github.com/gomex/end2end
+disqus_shortname: "gomex"
+disqus_site_shortname: "gomex"
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name      : Rafael Gomes
+  job       : Infra Developer
+  bio       : "Enthusiast automation, auto service and performance, always looking for the best challenge and good coffee."
   thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  email     : linux.rafa@gmail.com
+  url       : http://gomex.me
+  github    : http://github.com/gomex
+  twitter   : http://twitter.com/gomex
+  facebook  : http://facebook.com/rbgomes
+  linkedin  : http://linkedin.com/in/rgomes
 
 # navbar pages
 navbar:
