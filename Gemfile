@@ -11,4 +11,5 @@ group :development do
   gem 'jekyll-compose', group: [:jekyll_plugins]
   gem 'kramdown', group: [:jekyll_plugins]
   gem 'json', '~> 2'
+  gem 'pygments'
 end
