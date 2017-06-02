@@ -48,6 +48,8 @@ navbar:
   # - slug: skills
   #   title: Skills
   - slug: blog
-    title: Blog
+    title: Blog pt-br
+  - slug: blog_en
+    title: Blog en
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<section class="post-list">
+  {% for post in paginator.posts %}
+    {% include article_en.html %}
+  {% endfor %}
+
+  {% include pagination_en.html %}
+</section>
