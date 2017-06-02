@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Eu sou Rafael Gomes, também conhecido como Gomex. Soteropolitano, hacker urbano e consultor de infraestrutura, formado na Universidade de Salvador no curso de Gestão de Redes.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Trabalho atualmente como consultor de tecnologia na Thoughtworks. Certificado em LPIC-1, MCSO e Zabbix Certified Specialist.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Sou um Administrador de Sistema “clássico” migrando para metodologia DevOps, pois entendo que esse é o caminho que todos devemos perseguir, estar cada vez mais próximo do desenvolvimento de software, não necessariamente como um desenvolvedor, mas como uma pessoa de infraestrutura que sabe o que de fato um desenvolvedor precisa e fornece isso de forma simples, com autonomia e rapidamente.
