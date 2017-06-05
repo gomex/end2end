@@ -4,10 +4,10 @@ layout: default
 
 <section class="post-list">
   {% for post in paginator.posts %}
-  {.% for tag in post.tags %}
-  {.% if tag == page.tag %}
+  {% for tag in post.tags %}
+  {% if tag == page.tag %}
     {% include article.html %}
-  {.% endfor %}
+  {% endfor %}
   {% endfor %}
 
   {% include pagination.html %}
