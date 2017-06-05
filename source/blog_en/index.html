@@ -4,8 +4,8 @@ layout: default
 
 <section class="post-list">
   {% for post in paginator.posts %}
-  {% for tag in post.tags %}
-  {% if en == page.tag %}
+  {.% for tag in post.tags %}
+  {.% if tag == page.tag %}
     {% include article.html %}
   {% endfor %}
 
