@@ -3,9 +3,10 @@ layout: default
 ---
 
 <section class="post-list">
-  {% for post in paginator.posts_en %}
-    {% include article_en.html %}
+  {% for post in paginator.posts %}
+  {% if en == page.tag %}
+    {% include article.html %}
   {% endfor %}
 
-  {% include pagination_en.html %}
+  {% include pagination.html %}
 </section>
